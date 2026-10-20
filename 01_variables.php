@@ -89,4 +89,5 @@ var_dump(isset($country));
 echo "<br>";
 var_dump(isset($salary));
 echo "<br>";
+// Check whether the variables are set and their values are not NULL using isset(). It returns true if a variable exists and is not NULL, and false if the variable is undefined or its value is NULL. var_dump() displays the result as true or false, while <br> moves each result to a new line in the browser.
 
