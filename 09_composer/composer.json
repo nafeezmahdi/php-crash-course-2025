@@ -1,0 +1,17 @@
+{
+  "name": "user/09_composer",
+  "autoload": {
+    "psr-4": {
+      "User\\Testing\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "nafeezmahdi",
+      "email": "nafeezmahdi09@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "*"
+  }
+}
